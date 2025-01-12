@@ -1,0 +1,12 @@
+packaging
+duckduckgo-search
+fastapi
+unicorn
+groq
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+streamlit
+phidata
+google-generativeai
